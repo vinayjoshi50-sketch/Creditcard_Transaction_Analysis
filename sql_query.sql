@@ -1,4 +1,4 @@
--- Create Database
+-- Create Database Creditcard_Project
 create database Creditcard_Project ;
 
 
@@ -63,4 +63,5 @@ WITH (
     FIELDTERMINATOR = ',',      
     ROWTERMINATOR = '\n',       
     TABLOCK                     
+
 );
