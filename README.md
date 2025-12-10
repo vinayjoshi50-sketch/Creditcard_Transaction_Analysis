@@ -1,9 +1,10 @@
-Credit card Financial Analysis Project
+Creditcard Transactions Analysis Project
 ---
 
-Welcome to the Credit card Financial Analysis Project repository! 🚀
+Welcome to the Creditcard Transactions Analysis Project repository! 🚀
 
-This project demonstrates a comprehensive weekly analysis of credit card transactions for the period 2023.From importing data from csv files to cleaning and transforming them in MySQL to building interactive dashboards in Power BI to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data Processing and Analytics.
+This project demonstrates a comprehensive weekly analysis of credit card transactions for the period 2023.It is an End to End Project which involves importing raw data from flat files into the MySQL server to cleaning and transforming them to designing data models then connecting the pipeline to Power BI for creating dashboards to generate actionable insight.
+Designed as a portfolio project, it highlights industry best practices in Data Processing and Analytics.
 
 
 Project Overview 🎯
