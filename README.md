@@ -11,7 +11,7 @@ Project Overview 🎯
 ---
 
 This Project Involves:
-  1)	Data Sources: Import data from two source systems into the SQL Server database.
+  1)	Data Sources: Import data from two source systems into the MySQL Server database.
   2)	Data Quality: Cleanse and resolve data quality issues prior to analysis
   3)	Integration: get tables into the Power BI via import query.
   4)	Measures: create additional measures to support data model and insight generation.
